@@ -93,7 +93,7 @@
 <section id="location">
     <h2>📍 Location</h2>
     <p>Toll Plaza Road, Near Oxford School, Manoharpur, Rajasthan</p>
-    <a class="btn" href=https://www.instagram.com/thebreakfast_story?igsh=MWJvYnRkaDdkeTF5Zg==target="_blank">Open in Google Maps</a>
+    <a class="btn" href=igsh=https://maps.app.goo.gl/LXJoBubdqiSZAWAU7?g_st=com.google.maps.preview.copy_blank">Open in Google Maps</a>
 </section>
 
 <section id="contact">
@@ -108,7 +108,7 @@
 </section>
 
 <footer>
-    <p>© 2025 The Breakfast Story – Designed with ❤️</p>
+    <p>© 2025 The Breakfast Story – Designed with ❤️TBS</p>
 </footer>
 
 </body>
