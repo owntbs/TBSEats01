@@ -90,10 +90,10 @@
     <h3>💰 Only ₹349</h3>
 </section>
 
-<section id="location">
+<section id="location"> https://maps.app.goo.gl/LXJoBubdqiSZAWAU7?g_st=com.google.maps.preview.copy
     <h2>📍 Location</h2>
     <p>Toll Plaza Road, Near Oxford School, Manoharpur, Rajasthan</p>
-    <a class="btn" href=igsh=https://maps.app.goo.gl/LXJoBubdqiSZAWAU7?g_st=com.google.maps.preview.copy_blank">Open in Google Maps</a>
+    <a class="btn" href=igsh=https://blank">Open in Google Maps</a>
 </section>
 
 <section id="contact">
