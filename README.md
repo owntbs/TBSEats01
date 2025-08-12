@@ -93,7 +93,7 @@
 <section id="location">
     <h2>📍 Location</h2>
     <p>Toll Plaza Road, Near Oxford School, Manoharpur, Rajasthan</p>
-    <a class="btn" href="https://maps.app.goo.gl/XYZ" target="_blank">Open in Google Maps</a>
+    <a class="btn" href=https://www.instagram.com/thebreakfast_story?igsh=MWJvYnRkaDdkeTF5Zg==target="_blank">Open in Google Maps</a>
 </section>
 
 <section id="contact">
@@ -104,7 +104,7 @@
 
 <section id="instagram">
     <h2>📷 Instagram</h2>
-    <a class="btn" href="https://instagram.com/FarmanEditzzz" target="_blank">Visit Instagram</a>
+    <a class="btn" href="https://www.instagram.com/thebreakfast_story?igsh=MWJvYnRkaDdkeTF5Zg==" target="_blank">Visit Instagram</a>
 </section>
 
 <footer>
