@@ -1,0 +1,9 @@
+TBS-Eats-Website/
+│
+├── index.html      (main website page)
+├── style.css       (design & styling)
+├── /images/        (logo aur food images)
+│     └── logo.png
+├── CNAME           (agar custom domain chahiye to, jaise tbseats.com)
+├── README.md       (site ke details aur setup instructions)
+└── .gitignore      (github ke liye)
