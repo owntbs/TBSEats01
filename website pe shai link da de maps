@@ -1,0 +1,48 @@
+<!-- START: Maps section (copy-paste where you need) -->
+<section class="maps-section" aria-label="Location">
+  <h2>📍 Location</h2>
+  <p class="address">
+    Toll Plaza Road, Near Oxford School,<br>
+    Manoharpur, Rajasthan 303104
+  </p>
+
+  <a class="maps-btn"
+     href="https://maps.app.goo.gl/uwqsHpfPDRPUMRRa7?g_st=com.google.maps.preview.copy"
+     target="_blank"
+     rel="noopener noreferrer"
+     title="Open Aamna Palace in Google Maps">
+    Open in Google Maps
+  </a>
+</section>
+
+<!-- Minimal styles (put into your CSS file or inside <style> on the page) -->
+<style>
+.maps-section {
+  text-align: center;
+  padding: 18px;
+  background: transparent;
+  max-width: 760px;
+  margin: 0 auto;
+}
+.maps-section h2 {
+  font-size: 22px;
+  margin: 0 0 10px;
+}
+.maps-section .address {
+  margin: 6px 0 14px;
+  color: #333;
+  font-size: 15px;
+}
+.maps-btn {
+  display: inline-block;
+  padding: 10px 16px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  background: #e53935; /* red theme */
+  color: #fff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+.maps-btn:active { transform: translateY(1px); }
+</style>
+<!-- END: Maps section -->
